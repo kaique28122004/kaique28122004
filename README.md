@@ -14,7 +14,6 @@
 - Atualmente estudando C, C#, HTML, CSS e JavaScript  
 - Faço cursos online e projetos pessoais para praticar  
 - Curioso por tecnologia e programação  
-- Em busca do meu primeiro estágio na área  
 - Membro do Núcleo de Desenvolvimento de Sistemas (NDS)
 
 ---
